@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "leave-request-form-client-side-solution",
+    "id": "7e246eb7-c43d-4395-861d-3cf6500d9e33",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Leave Request Form description"
+      },
+      "longDescription": {
+        "default": "Leave Request Form description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "leave-request-form Feature",
+        "description": "The feature that activates elements of the leave-request-form solution.",
+        "id": "2cf57404-96b7-4f27-98a4-4bd69eacb6d6",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/leave-request-form.sppkg"
+  }
+}

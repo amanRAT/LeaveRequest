@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "20.13.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "leave-request-form",
+    "libraryId": "7e246eb7-c43d-4395-861d-3cf6500d9e33",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Leave Request Form",
+    "solutionShortDescription": "Leave Request Form description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
